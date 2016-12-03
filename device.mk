@@ -121,4 +121,7 @@ PRODUCT_PACKAGES += \
 # Radio Interface
 PRODUCT_PACKAGES += rild
 
+# Low memory killer daemon
+PRODUCT_PACKAGES += lmkd
+
 $(call inherit-product, device/nvidia/shield-common/shield.mk)
