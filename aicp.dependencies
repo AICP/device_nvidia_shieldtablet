@@ -1,21 +1,21 @@
 [
  {
-   "repository": "LineageOS/android_device_nvidia_shield-common",
+   "repository": "Shieldtablet/android_device_nvidia_shield-common",
    "target_path": "device/nvidia/shield-common",
    "branch"     : "cm-14.1"
  },
  {
-   "repository": "LineageOS/android_kernel_nvidia_shield",
+   "repository": "Shieldtablet/android_kernel_nvidia_shield",
    "target_path": "kernel/nvidia/shield",
    "branch"     : "cm-14.1"
  },
  {
-   "repository": "LineageOS/android_hardware_nvidia_power",
+   "repository": "Shieldtablet/android_hardware_nvidia_power",
    "target_path": "hardware/nvidia/power",
    "branch"     : "cm-14.1"
  },
  {
-   "repository": "Trafalgar-Square/proprietary_vendor_nvidia",
+   "repository": "Shieldtablet/proprietary_vendor_nvidia",
    "target_path": "vendor/nvidia",
    "branch"     : "cm-14.1"
  }
