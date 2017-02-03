@@ -19,9 +19,6 @@ ro.nv.usb.pid.ptp.adb=CF05
 
 ro.bt.bdaddr_path=/mnt/factory/bluetooth/bt_mac.txt
 
-# Legacy omx decoder support
-media.stagefright.less-secure=true
-
 # Hardware Info
 ro.device.chipset=NVIDIA Tegra K1 T124
 ro.device.cpu=Quad Core 2.2GHz
